@@ -1,3 +1,5 @@
+*Dear Grader, plot4.png legend is displayed incorrectly on GITHUB fileviewer. if you can run my plot4.R code and preview  the .png output you can see legend displayed correctly*
+
 ## Introduction
 
 This assignment uses data from
